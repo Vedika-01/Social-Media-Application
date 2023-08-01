@@ -1,4 +1,4 @@
-## Responsive social media platform  
+#Social Media Application
 
 Welcome to the README for the Social Media application using MERN stack!
 
@@ -157,8 +157,3 @@ This application includes the following features:
 - Ability to view other users' profiles and posts
 - Real-time updates using web sockets
 
-## Credits
-
-This application was created by My team [Satyam Jha, Shaptrshi Kaushal, Vedika Mishra, Kriti Omar, Anubhav Gupta, Medhavi Mishra].
-
-THANK YOU :-)
